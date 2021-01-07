@@ -1,5 +1,5 @@
 {  
-  "name":"alfiandri/imageupload",
+  "name":"ahmadyusri/imageupload",
   "description":"Upload image using Laravel's build in function and resize it automatically. Duplicate from Muhammad Zamroni.",
   "keywords":[  
     "laravel",
